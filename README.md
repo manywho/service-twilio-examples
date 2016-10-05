@@ -1,17 +1,17 @@
 ManyWho Twilio Service Examples
 ===============================
 
-These flows are examples of how to use twilio with ManyWho.
+These flows are examples of how to use Twilio with ManyWho.
 
 ## Usage
 
-.
+Import the flow into your ManyWho account, after update the values "Account Sid", "Auth token", "Twilio Phone" and "My Number".
 
 
 ### More info
 
-You can have more information of how to configure this service follow the instructions in https://github.com/manywho/service-box/wiki. 
-If you need to deploy the service in your oun environment you can find the code in https://github.com/manywho/service-box.
+You can have more information of how to configure this service follow the instructions in https://github.com/manywho/service-twilio/wiki
+If you need to deploy the service in your oun environment you can find the code in https://github.com/manywho/service-twilio
 
 ## Contributing
 
